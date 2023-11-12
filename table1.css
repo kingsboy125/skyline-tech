@@ -3,18 +3,23 @@ table, td, th{
     border-collapse: collapse;
     
     }
+
+    .container{
+
+        /* margin-left: 10; */
+
+    }
     
     table{
     
-        width: 60%;
+        width: 80%;
         font-size: 20px;
     }
     
     caption {
-        /* background-color: aqua; */
-        /* padding: 10px; */
-    
         
+        padding: 10px;   
+            
     }
     
     th{
@@ -36,4 +41,28 @@ table, td, th{
     
     tr: :hover{
         background-color: da
+    }
+
+    .icons{
+        background-color: green;
+        padding: 1px;
+        border-radius: 5px;
+        margin-left: 5px;
+        color: white;
+    }
+    .xicons{
+        background-color: red;
+        padding: 2px;
+        border-radius: 5px;
+        margin-left: 5px;
+
+    }
+
+    .gicons{
+        background-color: yellow;
+        padding: 1px;
+        border-radius: 5px;
+        margin-left: 5px;
+        color: white;
+
     }
