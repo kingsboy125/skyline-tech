@@ -3,10 +3,22 @@ table, td, th{
     border-collapse: collapse;
     
     }
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+
+    .container{
+        /* margin-left: 250px; */
+        
+    }
     
     table{
     
-        width: 60%;
+        width: 100%;
         font-size: 20px;
         margin-left: 3%;
     }
