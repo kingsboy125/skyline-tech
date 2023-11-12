@@ -36,12 +36,16 @@ td, th{
 
 caption{
 
-    background-color:blueviolet;
+    background-color:rgb(122, 177, 248);
     margin: auto;
     padding: 10px;
     margin-bottom: 20px;
-    width: 30%;
+    width: 40%;
     border-radius: 10px;
     color: #ddd;
     font-size: 18px;
+}
+
+.new-name{
+    color: rgb(7, 0, 0);
 }
