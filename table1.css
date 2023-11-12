@@ -1,0 +1,39 @@
+table, td, th{
+    border-bottom: 1px solid;
+    border-collapse: collapse;
+    
+    }
+    
+    table{
+    
+        width: 60%;
+        font-size: 20px;
+    }
+    
+    caption {
+        /* background-color: aqua; */
+        /* padding: 10px; */
+    
+        
+    }
+    
+    th{
+        background-color: dodgerblue;
+        color: white;
+    }
+    
+    tr{
+    
+        width: 50%;
+    
+    }
+    
+    td, th{
+        /* background-color: blueviolet; */
+        padding: 15px;
+        border-color: #96d4d9;
+    }
+    
+    tr: :hover{
+        background-color: da
+    }
