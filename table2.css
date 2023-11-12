@@ -1,0 +1,47 @@
+table, td, th{
+    border: 1px solid;
+    border-collapse: collapse;
+    
+    }
+    
+    table{
+    
+        width: 60%;
+        font-size: 20px;
+        margin-left: 3%;
+    }
+    
+    caption{
+        /* background-color: aqua; */
+        padding: 10px;
+        font-size: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+        
+    }
+    
+    th{
+        background-color: dodgerblue;
+        color: white;
+    }
+    
+    tr{
+    
+        width: 50%;
+            
+    }
+    
+    td, th{
+        /* background-color: blueviolet; */
+        padding: 15px;
+        border-color: #96d4d9;
+    }
+
+    
+    tr:nth-child(even) {
+        background-color: lightgray;
+    }
+
+    tr:hover{
+        background-color: lightblue;
+    }
